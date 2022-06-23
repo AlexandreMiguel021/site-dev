@@ -1,0 +1,19 @@
+{
+  "firstCard": [
+    "Gerencie os pagamentos cobrados e recebidos;",
+    "Automatiza a gestão de cobrança online;",
+    "Emissão de boletos bancários personalizados com logomarca;"
+  ],
+  "secondCard": [
+    "Cobrança avulsa;",
+    "Emissão de segunda via;",
+    "Cancelamento de boleto;",
+    "Gere link de pagamento com o boleto para seus clientes;"
+  ],
+  "thirdCard": [
+    "Cobrança parcelada",
+    "Gere link de pagamento com o boleto para seus clientes;",
+    "Boletos registrados sem conta bancária",
+    "Configure multas e juros"
+  ]
+}

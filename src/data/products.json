@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Emissor de NFe/NFCe/NFSe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, ipsum in placerat rhoncus, felis augue ultrices erat, ac blandit neque enim at risus. Vestibulum nec est sed elit pretium interdum.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 1,
+      "title": "Emissor de CTe OS",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 2,
+      "title": "Emissor de GTVe",
+      "description": "Enim at risus. Vestibulum nec est sed elit pretium interdum. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, ipsum in placerat rhoncus, felis augue ultrices erat, ac blandit.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 3,
+      "title": "Conta Digital",
+      "description": "Ipsum in placerat rhoncus, felis augue ultrices erat, ac blandit neque enim at risus. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit. Vestibulum nec est sed elit pretium interdum.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 4,
+      "title": "Sistema de gestão",
+      "description": "Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, ipsum in placerat rhoncus, felis augue ultrices erat, ac blandit neque enim at risus. Vestibulum nec est sed elit pretium interdum.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 5,
+      "title": "Emissor de CTe/MDFe",
+      "description": "Consectetur adipiscing elit. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, ipsum in placerat rhoncus, felis augue ultrices erat, ac blandit neque enim at risus.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 6,
+      "title": "Ecommerce - Loja Virtual",
+      "description": "Dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 7,
+      "title": "PDV - Frente de Caixa",
+      "description": "Adipiscing elit. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, Nullam suscipit.",
+      "image": "/img/solution.png"
+    },
+    {
+      "id": 8,
+      "title": "Certificado Digital",
+      "description": "Sit amet, consectetur adipiscing elit. Sed sodales dolor lacus. Vivamus et rutrum massa. Nulla leo mauris, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit, pretium et aliquet quis, rutrum faucibus sem. Nullam suscipit",
+      "image": "/img/solution.png"
+    }
+  ]
+}

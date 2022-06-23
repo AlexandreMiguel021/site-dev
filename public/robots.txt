@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cadastro
+Sitemap: https://egssistemas.com.br/sitemap.xml
